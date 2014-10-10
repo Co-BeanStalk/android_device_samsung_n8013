@@ -7,14 +7,14 @@
     },
     {
         "remote": "Co-BeanStalk",
-        "repository": "android_kernel_samsung_smdk4412",
-        "target_path": "kernel/samsung/smdk4412"
+        "repository": "android_device_samsung_n80xx-common",
+        "target_path": "device/samsung/n80xx-common"
         "revision": "kk4.4"
     },
     {
         "remote": "Co-BeanStalk",
-        "repository": "android_device_samsung_n80xx-common",
-        "target_path": "device/samsung/n80xx-common"
+        "repository": "android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
         "revision": "kk4.4"
     },
     {
